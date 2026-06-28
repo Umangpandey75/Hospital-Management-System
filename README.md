@@ -185,12 +185,12 @@ Open Browser  →  Select User Role  →  Login to Dash  →  Manage Hospital
 
 <div align="center">
 
-<img src="https://lh6.googleusercontent.com/YXE4jAnB_CJznOZ3YTIsyiMrqmy1Jkk-t4aqecEWQr8PvyvWCRezC7EE_8iBVkzqGUFCBydIS9nULbAm8ABw=w1280-h888" alt="Hospital Management System Dashboard" width="80%">
-
-*More screenshots available [here](https://drive.google.com/open?id=1MzCn77LxilevsqaCCaRMESF63wTxnLPr)*
+📸 <b>Explore More Screenshots</b><br>
+<a href="https://drive.google.com/open?id=1MzCn77LxilevsqaCCaRMESF63wTxnLPr">
+View Complete Gallery →
+</a>
 
 </div>
-
 ---
 
 ## 🤝 Contributing
